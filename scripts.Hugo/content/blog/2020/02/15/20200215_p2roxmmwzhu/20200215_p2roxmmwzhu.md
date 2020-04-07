@@ -1,0 +1,43 @@
+---
+title : "Citizen_Laohei公民老黑:新疆模式湖北复制丨未来中国政治模式的简单推演 "
+date:        2020-02-15T18:26:47-07:00
+tags:
+ - youtube
+ - Citizen_Laohei公民老黑
+ - youtube_Citizen_Laohei公民老黑
+ - 202002
+ - 20200215
+ - 20200215_18
+categories:
+ - 20200215
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="Citizen_Laohei公民老黑:#新疆模式 #联邦制与邦联制  本频道已经开通会员 希望有能力的可以适当加入会员赞助 大家的支持就是我的动力， 打赏再少也是爱  关注推特： https://twitter.com/heiyun799 "
+>}}
+<br>
+
+
+{{< mymp4o mp4="20200215_p2roxmmwzhu.mp4"
+text="len 2368361    2.3M"
+>}}
+
+{{< my2jpgexist "xx2.jpg" >}}<br>
+
+
+
+{{< mydiv text="Citizen_Laohei公民老黑:新疆模式湖北复制丨未来中国政治模式的简单推演 "
+>}}
+<br>
+
+{{< mydiv4o link="https://www.youtube.com/watch?v=p2RoxmmWzHU"
+text="source 原始來源網址"
+>}}
+
+
+<br>
+
+
+
+{{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲"  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip "/all.xspf"         "green"  "black"  " 全部"  "复制 VLC 播放器使用的链接：全部" >}} {{< my2buttoncopy2clip "music.m3u8"        "blue"   "red"    " M1 "    "复制 IPTV 播放器使用的链接：单曲" >}} {{< my2buttongoto      "/hot/helpxspf/"    "green"  "blue"   " 播放器" "如何使用 VLC 播放器或者 IPTV 播放器的教程" >}} {{< my2buttongoto      "/hot/endothers/"   "blue"   "red"    " 月份"   "转到月份总目录" >}} {{< my2buttongoto      "/hot/alltags/"     "green"  "blue"   " 列表"   "转到文章总列表" >}} 
